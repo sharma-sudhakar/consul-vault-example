@@ -1,0 +1,1 @@
+This application reads configuration properties from consul and vault.
