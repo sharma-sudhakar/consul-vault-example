@@ -6,7 +6,6 @@ vault server -dev --dev-root-token-id="00000000-0000-0000-0000-000000000000"
 
 2.	Open another cmd prompt, use CLI to add some key-value in vault using below commads
 
-// Set the env vars
 set VAULT_ADDR=http://127.0.0.1:8200
 set VAULT_TOKEN=00000000-0000-0000-0000-000000000000
 
